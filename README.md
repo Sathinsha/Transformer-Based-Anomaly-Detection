@@ -196,7 +196,4 @@ This project is licensed under the **MIT License**.
 
 ## ✍️ Developed with passion by **Sathinsha Semasinghe**
 
----
-
-✅ **Now your README looks polished, fully professional, and GitHub-ready!**
 
